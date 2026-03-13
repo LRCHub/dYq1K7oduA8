@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アオキハルヘ",
+  "base_artist": "Womcadole",
+  "createdAt": "2026-03-13T16:15:00.560062Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アオキハルヘ",
+      "artist": "WOMCADOLE",
+      "has_synced": false,
+      "path": "select/pl_01_アオキハルヘ_WOMCADOLE.txt"
+    }
+  ]
+}
